@@ -16,5 +16,4 @@ dependencies:
 - ipython>=5
 - virtualenv>=15
 - seaborn
-- pytest
 
