@@ -22,7 +22,5 @@ Anna's submission for machine learning HW1 for BAX 452.
 - seaborn
 ```
 
-### 
-
-### Analysis:
+#### Analysis available in `Anna_Shen_HW1.ipynb`
 
